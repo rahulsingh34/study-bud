@@ -1,4 +1,3 @@
 # study-bud
 
-Building a Discord like clone with Django.
-Practicing theme installation.
+Building a Discord like clone with Django following Dennis Ivy's course.
